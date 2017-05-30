@@ -981,6 +981,8 @@ body.layout-download .Breadcrumb {
     list-style-type: square;
     margin: 26px 30px;
     color: #06c; }
+    .section__designkit__grid .sdkit__list a[href="#"] {
+      opacity: 0.5 !important; }
     @media screen and (max-width: 991px) {
       .section__designkit__grid .sdkit__list {
         margin-left: 12px !important;
