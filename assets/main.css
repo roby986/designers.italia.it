@@ -575,7 +575,7 @@
         text-align: right;
         bottom: 3.2rem; } }
 
-/* RELATEDS 
+/* RELATEDS
 =============== */
 .Relateds .Badges {
   display: inline-block !important;
@@ -603,6 +603,9 @@
 .Prose > ul {
   list-style-type: disc;
   color: #0066CC; }
+  .Prose > ul li > a {
+    font-size: 2rem;
+    font-weight: 400; }
 .Prose > h2 {
   font-size: 5.5rem !important;
   line-height: 6rem !important; }
