@@ -716,6 +716,15 @@ body.layout-download .Breadcrumb {
     color: #0066CC;
     text-decoration: none; }
 
+/**/
+.lg-showcase img {
+  max-width: 100%;
+  width: 25rem;
+  height: 20rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 2em; }
+
 @media screen and (max-width: 991px) {
   .HomeBlk1-medium a {
     width: 100%;
