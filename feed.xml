@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://designers.italia.it/designers.italia.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://designers.italia.it/designers.italia.it/" rel="alternate" type="text/html" /><updated>2017-05-31T22:54:21+02:00</updated><id>https://designers.italia.it/designers.italia.it/</id><title type="html">Designers Italia</title><subtitle>La comunità italiana dei designer di servizi pubblici</subtitle><author><name>Team Digitale e AgID</name></author><entry xml:lang="it"><title type="html">Otto idee sul design digitale</title><link href="https://designers.italia.it/designers.italia.it/blog/post" rel="alternate" type="text/html" title="Otto idee sul design digitale" /><published>2017-05-31T12:00:00+02:00</published><updated>2017-05-31T12:00:00+02:00</updated><id>https://designers.italia.it/designers.italia.it/blog/lancio1</id><content type="html" xml:base="https://designers.italia.it/designers.italia.it/blog/post">&lt;!--more--&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://designers.italia.it/feed.xml" rel="self" type="application/atom+xml" /><link href="https://designers.italia.it/" rel="alternate" type="text/html" /><updated>2017-06-01T00:22:06+02:00</updated><id>https://designers.italia.it/</id><title type="html">Designers Italia</title><subtitle>La comunità italiana dei designer di servizi pubblici</subtitle><author><name>Team Digitale e AgID</name></author><entry xml:lang="it"><title type="html">Otto idee sul design digitale</title><link href="https://designers.italia.it/blog/post" rel="alternate" type="text/html" title="Otto idee sul design digitale" /><published>2017-05-31T12:00:00+02:00</published><updated>2017-05-31T12:00:00+02:00</updated><id>https://designers.italia.it/blog/lancio1</id><content type="html" xml:base="https://designers.italia.it/blog/post">&lt;!--more--&gt;
 
 &lt;h3 id=&quot;1-design-e-tecnologia&quot;&gt;1. Design e tecnologia&lt;/h3&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;h3 id=&quot;2-design-e-bellezza&quot;&gt;2. Design e bellezza&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/designers.italia.it/assets/images/posts/blog-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/blog-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Nell’immaginario comune il design è spesso associato all’idea di bellezza, e mi pare una gran cosa: la bellezza è una componente fondamentale della nostra vita. Qualcuno, purtroppo, confonde il bello con il frivolo, e di conseguenza tende a sminuire l’importanza del design. La distinzione tra bellezza e utilità è artificiale, e la nostra esperienza è che le cose ci piacciono quando realizzano in modo intelligente il proprio scopo. Se hai qualche dubbio che tecnologia, informazione e bellezza siano ingredienti fondamentali potresti guardare lo &lt;a href=&quot;https://www.youtube.com/watch?v=pLqjQ55tz-U&quot;&gt;speech di David Mc Candless sulla data visualization&lt;/a&gt;, uno dei temi di grande attualità nel mondo del design digitale.&lt;/p&gt;
 
@@ -21,7 +21,7 @@
 
 &lt;h3 id=&quot;5-design-per-le-persone-ricordati-di-farti-trovare&quot;&gt;5. Design per le persone: ricordati di farti trovare&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/designers.italia.it/assets/images/posts/blog-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/blog-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ci piace essere concreti, e allora una delle cose da curare è la “trovabilità” del nostro sito o servizio. Title e description sono a posto? Quali argomenti cercano le persone? Sono questioni di design: potresti leggere la nostra checklist per vedere se tutto è a posto.&lt;/p&gt;
 
