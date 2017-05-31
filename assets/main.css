@@ -458,6 +458,9 @@
 .Megamenu-item:first-child > a {
   padding-left: 3.2rem !important; }
 
+.Megamenu--default {
+  padding-right: 0 !important; }
+
 .Megamenu--default .Megamenu-item > a {
   color: #06c !important; }
 
