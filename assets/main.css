@@ -329,7 +329,8 @@
       top: 0;
       left: 0;
       white-space: nowrap;
-      z-index: -1; }
+      z-index: -1;
+      user-select: none; }
     #main .project-title-wrapper .project-shadow2 {
       color: #eee;
       font-size: 120px;
@@ -337,7 +338,8 @@
       line-height: 183px;
       position: absolute;
       top: -0.4em;
-      z-index: -2; }
+      z-index: -2;
+      user-select: none; }
 
 /* Content style and TOC
   ======================== */
@@ -474,6 +476,9 @@
 
 .u-color-teal-60 {
   color: #00C5CA !important; }
+
+.u-background-teal-60 {
+  background-color: #00C5CA !important; }
 
 .u-color-teal-65 {
   color: #06A3A8 !important; }
