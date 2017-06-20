@@ -730,6 +730,9 @@ body.layout-download .Breadcrumb {
   padding-bottom: 1em;
   padding-right: 2em; }
 
+.iPress-blockquote a:after {
+  display: none !important; }
+
 @media screen and (max-width: 991px) {
   .HomeBlk1-medium a {
     width: 100%;
